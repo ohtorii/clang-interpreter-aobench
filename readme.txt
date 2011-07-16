@@ -1,4 +1,4 @@
-*hou to run.
+*how to run.
     clang-interpreter.exe aobench.cpp
 
 *environment.
